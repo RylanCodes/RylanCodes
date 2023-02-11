@@ -8,7 +8,7 @@ Front-end developer student pursuing flexible part-time employment. Detail-orien
 
 * 🌍  I'm based in Trois-Rivières, Québec, Canada
 * ✉️  You can contact me at [lechuga.nancy@gmail.com](mailto:lechuga.nancy@gmail.com)
-* 🧠  I'm learning Typescript and Vue.js
+* 🧠  I'm learning Typescript, Vue.js and Quasar
 * ⚡  Open to remote work
 
 ### Skills
