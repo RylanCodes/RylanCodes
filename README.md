@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end developer
 -------------------
 
-Front-end developer student pursuing flexible part-time employment. Detail-oriented, responsible and motivated, ready to apply education in the workplace, and able to learn new concepts quickly.
+Outgoing front-end developer student looking for an internship. Identified as a responsible, detail-oriented, versatile, self-motivated, and genuine person.
 
 * 🌍  I'm based in Trois-Rivières, Québec, Canada
 * ✉️  You can contact me at [lechuga.nancy@gmail.com](mailto:lechuga.nancy@gmail.com)
-* 🧠  I'm learning Typescript, Vue.js and Quasar
+* 🧠  I'm learning Typescript and Vue.js
 * ⚡  Open to remote work
 
 ### Skills
