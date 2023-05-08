@@ -7,7 +7,7 @@ Front-end developer
 Outgoing front-end developer student looking for an internship. Identified as a responsible, detail-oriented, versatile, self-motivated, and genuine person.
 
 * 🌍  I'm based in Trois-Rivières, Québec, Canada
-* ✉️  You can contact me at [lechuga.nancy@gmail.com](mailto:lechuga.nancy@gmail.com)
+* ✉️  You can contact me at [rylancodes@gmail.com](mailto:rylancodes@gmail.com)
 * 🧠  I'm learning Typescript and Vue.js
 * ⚡  Open to remote work
 
