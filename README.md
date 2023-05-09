@@ -6,11 +6,15 @@ Junior Front-end Developer
 
 Identified as a responsible, detail-oriented, versatile, self-motivated, and genuine person.
 
-*   🌍  I'm based in I'm based in Trois-Rivières, Québec, Canada
-*   ✉️  You can contact me at [rylancodes@gmail.com](mailto:rylancodes@gmail.com)
-*   🧠  I'm learning Typescript and Vue.js
-*   🤝  I'm open to collaborating on web development projects
-*   ⚡  I'm open to remote work and I am trilingual (English, French, Spanish)### Skills 
+* 🌍  I'm based in I'm based in Trois-Rivières, Québec, Canada
+* ✉️  You can contact me at [rylancodes@gmail.com](mailto:rylancodes@gmail.com)
+* 🧠  I'm learning Typescript and Vue.js
+* 🤝  I'm open to collaborating on web development projects
+* ⚡  I'm open to remote work and I am trilingual (English, French, Spanish)
+
+### Skills
+
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -28,12 +32,8 @@ Identified as a responsible, detail-oriented, versatile, self-motivated, and gen
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/RylanCodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/nancylr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/RylanCodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nancylr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
