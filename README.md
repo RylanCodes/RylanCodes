@@ -1,7 +1,7 @@
-Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nancy L. Rodriguez
+Hello, my name is Nancy L. Rodriguez
 ==========================================================================================================================================
 
-Junior Front-end Developer
+Front-end Developer
 --------------------------
 
 Identified as a responsible, detail-oriented, versatile, self-motivated, and genuine person.
