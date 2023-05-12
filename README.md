@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nancy L. Rodriguez
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nancy L. Rodriguez
 ==========================================================================================================================================
 
 Junior Front-end Developer
@@ -6,7 +6,7 @@ Junior Front-end Developer
 
 Identified as a responsible, detail-oriented, versatile, self-motivated, and genuine person.
 
-* 🌍  I'm based in I'm based in Trois-Rivières, Québec, Canada
+* 🌍  I'm based in Trois-Rivières, Québec, Canada
 * ✉️  You can contact me at [rylancodes@gmail.com](mailto:rylancodes@gmail.com)
 * 🧠  I'm learning Typescript and Vue.js
 * 🤝  I'm open to collaborating on web development projects
