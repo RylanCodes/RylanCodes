@@ -1,4 +1,4 @@
-Hello :wave: my name is Nancy L. Rodriguez aka RylanCodes
+Hello :wave: my name is Nancy L. Rodriguez
 ==========================================================================================================================================
 
 Front-end Developer
