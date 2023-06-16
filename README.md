@@ -8,7 +8,7 @@ Identified as a responsible, detail-oriented, versatile, self-motivated, and gen
 
 * 🌍  I'm based in Trois-Rivières, Québec, Canada
 * ✉️  You can contact me at [rylancodes@gmail.com](mailto:rylancodes@gmail.com)
-* 🧠  I'm learning Typescript and Vue.js
+* 🧠  I'm learning Typescript and Nuxt
 * 🤝  I'm open to collaborating on web development projects
 * ⚡  I'm open to remote work and I am trilingual (English, French, Spanish)
 
