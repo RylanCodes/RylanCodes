@@ -4,13 +4,12 @@ Hello :wave: my name is Nancy L. Rodriguez
 Front-end Developer
 --------------------------
 
-Identified as a responsible, detail-oriented, versatile, self-motivated, and genuine person.
+I'm a trilingual web developer specializing in creating enjoyable and accessible web experiences. Identified as a responsible, versatile, self-motivated, and genuine person, I bring a strong work ethic and enthusiasm for coding to every project.
 
 * 🌍  I'm based in Trois-Rivières, Québec, Canada
 * ✉️  You can contact me at [rylancodes@gmail.com](mailto:rylancodes@gmail.com)
-* 🧠  I'm learning Typescript and Nuxt
-* 🤝  I'm open to collaborating on web development projects
-* ⚡  I'm open to remote work and I am trilingual (English, French, Spanish)
+* 🧠  I'm learning Astro
+* 🤝  I'm open to collaborating on web development projects remotely
 
 ### Skills
 
@@ -31,8 +30,11 @@ Identified as a responsible, detail-oriented, versatile, self-motivated, and gen
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="WordPress" /></a>
 </p>
 
+### Professional Experience
+I create clear and user-friendly interfaces from mockups using HTML5 and CSS3 within WordPress, and I enhance user experiences with visual effects using JavaScript. Additionally, my work includes integrating WordPress plugins for additional functionality, optimizing websites for SEO, ensuring cross-device compatibility, and customizing online stores on Shopify. If you're looking for a passionate and dedicated developer to join your team, let's connect and explore potential opportunities together.
 
 ### Socials
 
