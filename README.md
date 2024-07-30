@@ -10,7 +10,7 @@ I'm a trilingual web developer specializing in creating enjoyable and accessible
 * ✉️  You can contact me at [rylancodes@gmail.com](mailto:rylancodes@gmail.com)
 * 🧠  I'm learning Astro
 * 🤝  I'm open to collaborating on web development projects remotely
-* 🇨🇦 English ⚜️ French 🇲🇽 Spanish
+* 😃  I speak 🇨🇦 English ⚜️ French 🇲🇽 Spanish
 
 
 ### Skills
