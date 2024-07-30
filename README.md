@@ -40,9 +40,8 @@ I create clear and user-friendly interfaces from mockups using HTML5 and CSS3 wi
 
 <p align="left"> <a href="https://www.github.com/RylanCodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nancylr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-==========================================================================================================================================
-French :backhand_index_pointing_down_light_skin_tone:
---------------------------
+
+French 👇🏻
 
 Je suis une développeuse web trilingue spécialisée dans la création d'expériences web agréables et accessibles. Reconnue comme étant une personne fiable, polyvalente, persévérante et honnête, j'apporte une solide éthique de travail et un enthousiasme pour le codage à chaque projet.
 
