@@ -6,11 +6,11 @@ Front-end Developer
 
 I'm a trilingual web developer specializing in creating enjoyable and accessible web experiences. Identified as a responsible, versatile, self-motivated, and genuine person, I bring a strong work ethic and enthusiasm for coding to every project.
 
+* 😃  I speak 🇨🇦 English ⚜️ French 🇲🇽 Spanish
 * 🌍  I'm based in Trois-Rivières, Québec, Canada
 * ✉️  You can contact me at [rylancodes@gmail.com](mailto:rylancodes@gmail.com)
-* 🧠  I'm learning Astro
 * 🤝  I'm open to collaborating on web development projects remotely
-* 😃  I speak 🇨🇦 English ⚜️ French 🇲🇽 Spanish
+* 🧠  I'm learning Astro
 
 
 ### Skills
@@ -50,10 +50,10 @@ En français svp 👇🏻
 
 Je suis une développeuse web trilingue spécialisée dans la création d'expériences web agréables et accessibles. Reconnue comme étant une personne fiable, polyvalente, persévérante et honnête, j'apporte une solide éthique de travail et un enthousiasme pour le codage à chaque projet.
 
+* 😃  Je parle ⚜️ Français 🇨🇦 Anglais 🇲🇽 Espagnol
 * 🌍  Je suis basée à Trois-Rivières, Québec, Canada
 * ✉️  Vous pouvez me contacter à l’adresse courriel [rylancodes@gmail.com](mailto:rylancodes@gmail.com)
-* 🧠  J'apprends Astro
 * 🤝  Je suis ouverte à collaborer à distance sur des projets de développement web
-* ⚜️ Français 🇨🇦 Anglais 🇲🇽 Espagnol
+* 🧠  J'apprends Astro
 
 Je crée des interfaces claires et conviviales à partir de maquettes en utilisant HTML5 et CSS3 dans WordPress, et j'améliore les expériences utilisateur avec des effets visuels en utilisant JavaScript. De plus, mon travail comprend l'intégration de plugins WordPress pour des fonctionnalités supplémentaires, l'optimisation des sites Web pour le référencement, la garantie de la compatibilité entre appareils et la personnalisation de boutiques en ligne sur Shopify. Si vous cherchez une développeuse passionnée et motivée pour rejoindre votre équipe, n'hésitez pas à me contacter par courriel à l'adresse rylancodes@gmail.com.
