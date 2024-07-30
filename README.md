@@ -11,6 +11,7 @@ I'm a trilingual web developer specializing in creating enjoyable and accessible
 * 🧠  I'm learning Astro
 * 🤝  I'm open to collaborating on web development projects remotely
 * 🇨🇦 English ⚜️ French 🇲🇽 Spanish
+&mdash;
 
 ### Skills
 
