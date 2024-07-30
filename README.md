@@ -39,3 +39,18 @@ I create clear and user-friendly interfaces from mockups using HTML5 and CSS3 wi
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/RylanCodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nancylr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+==========================================================================================================================================
+French :backhand_index_pointing_down_light_skin_tone:
+--------------------------
+
+Je suis une développeuse web trilingue spécialisée dans la création d'expériences web agréables et accessibles. Reconnue comme étant une personne fiable, polyvalente, persévérante et honnête, j'apporte une solide éthique de travail et un enthousiasme pour le codage à chaque projet.
+
+* 🌍  Je suis basée à Trois-Rivières, Québec, Canada
+* ✉️  Vous pouvez me contacter à l’adresse courriel [rylancodes@gmail.com](mailto:rylancodes@gmail.com)
+* 🧠  J'apprends Astro
+* 🤝  Je suis ouverte à collaborer à distance sur des projets de développement web
+
+### Expérience professionnelle
+
+Je crée des interfaces claires et conviviales à partir de maquettes en utilisant HTML5 et CSS3 dans WordPress, et j'améliore les expériences utilisateur avec des effets visuels en utilisant JavaScript. De plus, mon travail comprend l'intégration de plugins WordPress pour des fonctionnalités supplémentaires, l'optimisation des sites Web pour le référencement, la garantie de la compatibilité entre appareils et la personnalisation de boutiques en ligne sur Shopify. Si vous cherchez une développeuse passionnée et motivée pour rejoindre votre équipe, n'hésitez pas à me contacter par courriel à l'adresse rylancodes@gmail.com.
