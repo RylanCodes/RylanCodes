@@ -42,6 +42,7 @@ I create clear and user-friendly interfaces from mockups using HTML5 and CSS3 wi
 
 
 
+
 French 👇🏻
 --------------------------
 
@@ -51,7 +52,5 @@ Je suis une développeuse web trilingue spécialisée dans la création d'expér
 * ✉️  Vous pouvez me contacter à l’adresse courriel [rylancodes@gmail.com](mailto:rylancodes@gmail.com)
 * 🧠  J'apprends Astro
 * 🤝  Je suis ouverte à collaborer à distance sur des projets de développement web
-
-### Expérience professionnelle
 
 Je crée des interfaces claires et conviviales à partir de maquettes en utilisant HTML5 et CSS3 dans WordPress, et j'améliore les expériences utilisateur avec des effets visuels en utilisant JavaScript. De plus, mon travail comprend l'intégration de plugins WordPress pour des fonctionnalités supplémentaires, l'optimisation des sites Web pour le référencement, la garantie de la compatibilité entre appareils et la personnalisation de boutiques en ligne sur Shopify. Si vous cherchez une développeuse passionnée et motivée pour rejoindre votre équipe, n'hésitez pas à me contacter par courriel à l'adresse rylancodes@gmail.com.
