@@ -43,7 +43,7 @@ I create clear and user-friendly interfaces from mockups using HTML5 and CSS3 wi
 
 
 
-French 👇🏻
+En français svp 👇🏻
 --------------------------
 
 Je suis une développeuse web trilingue spécialisée dans la création d'expériences web agréables et accessibles. Reconnue comme étant une personne fiable, polyvalente, persévérante et honnête, j'apporte une solide éthique de travail et un enthousiasme pour le codage à chaque projet.
