@@ -36,7 +36,7 @@ I'm a trilingual web developer specializing in creating enjoyable and accessible
 </p>
 
 ### Professional Experience
-I create clear and user-friendly interfaces from mockups using HTML5 and CSS3 within WordPress, and I enhance user experiences with visual effects using JavaScript. Additionally, my work includes integrating WordPress plugins for additional functionality, optimizing websites for SEO, ensuring cross-device compatibility, and customizing online stores on Shopify. If you're looking for a passionate and dedicated developer to join your team, let's connect and explore potential opportunities together.
+I create clear and user-friendly interfaces from mockups using HTML5 and CSS3 within WordPress, and I enhance user experiences with visual effects using JavaScript. Additionally, my work includes integrating WordPress plugins for additional functionality, optimizing websites for SEO, ensuring cross-device compatibility, and customizing online stores on Shopify. If you're looking for a passionate and dedicated developer to join your team or a freelancer to assist you, let's connect and explore potential opportunities together.
 
 ### Socials
 
@@ -56,4 +56,4 @@ Je suis une développeuse web trilingue spécialisée dans la création d'expér
 * 🤝  Je suis ouverte à collaborer à distance sur des projets de développement web
 * 🧠  J'apprends Astro
 
-Je crée des interfaces claires et conviviales à partir de maquettes en utilisant HTML5 et CSS3 dans WordPress, et j'améliore les expériences utilisateur avec des effets visuels en JavaScript. De plus, mon travail comprend l'intégration de plugins WordPress pour des fonctionnalités supplémentaires, l'optimisation des sites Web pour le référencement (SEO), la garantie de la compatibilité entre appareils et la personnalisation de boutiques en ligne sur Shopify. Si vous cherchez une développeuse passionnée et motivée pour rejoindre votre équipe, n'hésitez pas à me contacter par courriel à l'adresse rylancodes@gmail.com.
+Je crée des interfaces claires et conviviales à partir de maquettes en utilisant HTML5 et CSS3 dans WordPress, et j'améliore les expériences utilisateur avec des effets visuels en JavaScript. De plus, mon travail comprend l'intégration de plugins WordPress pour des fonctionnalités supplémentaires, l'optimisation des sites Web pour le référencement (SEO), la garantie de la compatibilité entre appareils et la personnalisation de boutiques en ligne sur Shopify. Si vous cherchez une développeuse passionnée et motivée pour rejoindre votre équipe ou une travailleuse indépendante (freelancer) pour vous aider, n'hésitez pas à me contacter pour discuter des possibilités de collaboration.
